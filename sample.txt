@@ -1,0 +1,1 @@
+Arg Epoch is 30, and Batch Size is 10
